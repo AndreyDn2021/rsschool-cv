@@ -1,8 +1,8 @@
 # Gvozd Andrey 
 
 ## Contacts
-- **Phone number:** +380503681058;
-- **E-mail:** aandreydonetsk@gmail.com.
+- **Phone number:** +38050368xxxx;
+- **E-mail:** elecon@ukr.net.
 
 ## Skills
 Basic knowledge of HTML, CSS
